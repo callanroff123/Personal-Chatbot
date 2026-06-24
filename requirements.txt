@@ -1,0 +1,8 @@
+gradio==5.33.1
+openai==1.85.0
+python-dotenv==1.1.0
+requests==2.32.4
+numpy==2.3.0
+requests==2.32.4
+beautifulsoup4==4.13.4
+pypdf
