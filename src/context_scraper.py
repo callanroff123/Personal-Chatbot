@@ -1,7 +1,7 @@
 # Import required modules
 import requests
 from bs4 import BeautifulSoup
-from config import URLS
+from src.config import URLS
 
 
 # Scrape context from my website

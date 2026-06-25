@@ -1,5 +1,5 @@
 # Import push notification handler
-from push_notification import push
+from src.push_notification import push
 
 
 # record_user_detail tool handler
